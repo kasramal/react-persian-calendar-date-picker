@@ -11,7 +11,7 @@
 .DatePicker::after {
   content: "";
   position: absolute;
-  width: 0;
+  width: 1px;
   height: 0;
   top: calc(100% + 1em);
   left: 0;
